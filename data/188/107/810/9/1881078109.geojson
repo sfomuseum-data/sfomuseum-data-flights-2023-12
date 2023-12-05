@@ -1,0 +1,69 @@
+{
+  "id": 1881078109,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-12-04",
+    "date:inception_upper": "2023-12-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-12-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2023-12-04",
+    "flysfo:estimated_timestamp": 1701729120,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA6969",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-YEG",
+    "flysfo:scheduled_timestamp": 1701723600,
+    "flysfo:timestamp": 1701729120,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-113.584752,53.308108",
+    "geom:latitude": 45.463049,
+    "geom:longitude": -117.9778475,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102554473,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20231204-D-UAL-6969",
+    "sfomuseum:flight_number": [
+      "UAL6969",
+      "UA6969"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1701793692,
+    "wof:geomhash": "d4a7e38ab5b38aac9300ec43a62729ca",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1881078109
+      }
+    ],
+    "wof:id": 1881078109,
+    "wof:involves": [
+      102554473,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1701793692,
+    "wof:name": "UA6969 (SFO-YEG)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -113.584752,
+    53.308108
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-113.584752,53.308108]],"type":"MultiPoint"}
+}

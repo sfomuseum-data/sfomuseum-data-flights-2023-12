@@ -1,0 +1,69 @@
+{
+  "id": 1881073875,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-12-04",
+    "date:inception_upper": "2023-12-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-12-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2023-12-04",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "WN2879",
+    "flysfo:gate": "",
+    "flysfo:journey": "HOU-SFO",
+    "flysfo:scheduled_timestamp": 1701707640,
+    "flysfo:timestamp": 1701707640,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,29.652674,-95.279344,37.617990",
+    "geom:latitude": 33.635332,
+    "geom:longitude": -108.8251435,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531775,
+    "sfomuseum:flight_id": "20231204-A-SWA-2879",
+    "sfomuseum:flight_number": [
+      "SWA2879",
+      "WN2879"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1701792696,
+    "wof:geomhash": "a5dc7134a1c5d943495b40cb1b713674",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1881073875
+      }
+    ],
+    "wof:id": 1881073875,
+    "wof:involves": [
+      102527513,
+      102531775,
+      1159285591,
+      -1
+    ],
+    "wof:lastmodified": 1701792696,
+    "wof:name": "WN2879 (HOU-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    29.652674,
+    -95.279344,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-95.279344,29.652674],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
