@@ -1,0 +1,69 @@
+{
+  "id": 1896881881,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-12-14",
+    "date:inception_upper": "2023-12-14",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-12-14",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2023-12-14",
+    "flysfo:estimated_timestamp": 1702578000,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA2589",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-POB",
+    "flysfo:scheduled_timestamp": 1702569600,
+    "flysfo:timestamp": 1702578000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.176292,-79.006810,37.617990",
+    "geom:latitude": 36.397141,
+    "geom:longitude": -100.68887649999999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102532415,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20231214-D-UAL-2589",
+    "sfomuseum:flight_number": [
+      "UAL2589",
+      "UA2589"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1702657765,
+    "wof:geomhash": "d41d81819b57f6142328539bfe311768",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1896881881
+      }
+    ],
+    "wof:id": 1896881881,
+    "wof:involves": [
+      102532415,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1702657765,
+    "wof:name": "UA2589 (SFO-POB)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.176292,
+    -79.00681,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.00681,35.176292]],"type":"MultiPoint"}
+}
