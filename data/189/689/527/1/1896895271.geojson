@@ -1,0 +1,69 @@
+{
+  "id": 1896895271,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-12-16",
+    "date:inception_upper": "2023-12-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-12-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2023-12-16",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS3404",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SNA",
+    "flysfo:scheduled_timestamp": 1702750500,
+    "flysfo:timestamp": 1702750500,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
+    "geom:latitude": 35.647857,
+    "geom:longitude": -120.1186115,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102534161,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20231216-D-ASA-3404",
+    "sfomuseum:flight_number": [
+      "ASA3404",
+      "AS3404"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1702830013,
+    "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1896895271
+      }
+    ],
+    "wof:id": 1896895271,
+    "wof:involves": [
+      102534161,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1702830013,
+    "wof:name": "AS3404 (SFO-SNA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.677724,
+    -117.86628,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}
+}
