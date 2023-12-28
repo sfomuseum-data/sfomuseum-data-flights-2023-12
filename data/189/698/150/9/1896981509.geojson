@@ -1,0 +1,69 @@
+{
+  "id": 1896981509,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-12-27",
+    "date:inception_upper": "2023-12-27",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-12-27",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2023-12-27",
+    "flysfo:estimated_timestamp": 1703710500,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8180",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SAN",
+    "flysfo:scheduled_timestamp": 1703710500,
+    "flysfo:timestamp": 1703710500,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102528997,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20231227-D-UAL-8180",
+    "sfomuseum:flight_number": [
+      "UAL8180",
+      "UA8180"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1703780948,
+    "wof:geomhash": "25f5345529d944df781e36098260a435",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1896981509
+      }
+    ],
+    "wof:id": 1896981509,
+    "wof:involves": [
+      102528997,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1703780948,
+    "wof:name": "UA8180 (SFO-SAN)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.733534,
+    -117.185927,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}
+}
