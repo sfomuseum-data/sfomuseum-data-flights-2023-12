@@ -1,0 +1,69 @@
+{
+  "id": 1896984749,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-12-29",
+    "date:inception_upper": "2023-12-29",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-12-29",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2023-12-29",
+    "flysfo:estimated_timestamp": 1703906400,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "WN8507",
+    "flysfo:gate": "",
+    "flysfo:journey": "BUR-SFO",
+    "flysfo:scheduled_timestamp": 1703904300,
+    "flysfo:timestamp": 1703906400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,34.196704,-118.353322,37.617990",
+    "geom:latitude": 35.907347,
+    "geom:longitude": -120.3621325,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 1746879083,
+    "sfomuseum:flight_id": "20231229-A-SWA-8507",
+    "sfomuseum:flight_number": [
+      "SWA8507",
+      "WN8507"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1703952793,
+    "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1896984749
+      }
+    ],
+    "wof:id": 1896984749,
+    "wof:involves": [
+      102527513,
+      1746879083,
+      1159285591,
+      -1
+    ],
+    "wof:lastmodified": 1703952793,
+    "wof:name": "WN8507 (BUR-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    34.196704,
+    -118.353322,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

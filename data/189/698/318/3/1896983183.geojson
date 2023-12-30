@@ -1,0 +1,75 @@
+{
+  "id": 1896983183,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-12-29",
+    "date:inception_upper": "2023-12-29",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-12-29",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "2020",
+    "flysfo:date": "2023-12-29",
+    "flysfo:estimated_timestamp": 1703871780,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS3337",
+    "flysfo:gate": "",
+    "flysfo:journey": "BOI-SFO",
+    "flysfo:scheduled_timestamp": 1703871780,
+    "flysfo:timestamp": 1703871780,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-116.224634,43.564048",
+    "geom:latitude": 40.591019,
+    "geom:longitude": -119.2977885,
+    "iata:airline": "AS",
+    "iata:base_airline": "",
+    "icao:airline": "ASA",
+    "icao:base_airline": "QTR",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20231229-A-QTR-2020",
+    "sfomuseum:departure_id": 102527733,
+    "sfomuseum:flight_id": "20231229-A-ASA-3337",
+    "sfomuseum:flight_number": [
+      "ASA3337",
+      "AS3337"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1703952404,
+    "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1896983183
+      }
+    ],
+    "wof:id": 1896983183,
+    "wof:involves": [
+      102527513,
+      102527733,
+      1159283813,
+      -1,
+      1159286153
+    ],
+    "wof:lastmodified": 1703952404,
+    "wof:name": "AS3337 (BOI-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -116.224634,
+    43.564048
+  ],
+  "geometry": {"coordinates":[[-116.224634,43.564048],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
