@@ -40,6 +40,7 @@
     "wof:geomhash": "27d105ecd0cb5505c65a584eb4bda7e7",
     "wof:hierarchy": [
       {
+        "custom_id": 1896954765,
         "flight_id": 1896954765
       }
     ],
@@ -50,11 +51,13 @@
       1159286153,
       -1
     ],
-    "wof:lastmodified": 1703520653,
+    "wof:lastmodified": 1717047431,
     "wof:name": "QR99 (DOH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

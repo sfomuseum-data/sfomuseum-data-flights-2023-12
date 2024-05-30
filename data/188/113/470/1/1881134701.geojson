@@ -45,6 +45,7 @@
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
+        "custom_id": 1881134701,
         "flight_id": 1881134701
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284389
     ],
-    "wof:lastmodified": 1702484159,
+    "wof:lastmodified": 1717047422,
     "wof:name": "AA369 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

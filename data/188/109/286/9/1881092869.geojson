@@ -40,6 +40,7 @@
     "wof:geomhash": "3d19e2486afc236330c096bb1f630ba3",
     "wof:hierarchy": [
       {
+        "custom_id": 1881092869,
         "flight_id": 1881092869
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1701966552,
+    "wof:lastmodified": 1717047421,
     "wof:name": "UA8187 (SFO-MFR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

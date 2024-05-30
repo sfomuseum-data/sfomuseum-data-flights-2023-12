@@ -40,6 +40,7 @@
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
+        "custom_id": 1881141783,
         "flight_id": 1881141783
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1702570421,
+    "wof:lastmodified": 1717047435,
     "wof:name": "UA3926 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
+        "custom_id": 1881058773,
         "flight_id": 1881058773
       }
     ],
@@ -50,11 +51,13 @@
       1159284583,
       -1
     ],
-    "wof:lastmodified": 1701619792,
+    "wof:lastmodified": 1717047426,
     "wof:name": "B6333 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

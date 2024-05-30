@@ -40,6 +40,7 @@
     "wof:geomhash": "d41d81819b57f6142328539bfe311768",
     "wof:hierarchy": [
       {
+        "custom_id": 1896881881,
         "flight_id": 1896881881
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1702657765,
+    "wof:lastmodified": 1717047426,
     "wof:name": "UA2589 (SFO-POB)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

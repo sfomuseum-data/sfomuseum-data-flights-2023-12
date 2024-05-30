@@ -45,6 +45,7 @@
     "wof:geomhash": "e151466e5466f7dbf4486a1eac82455b",
     "wof:hierarchy": [
       {
+        "custom_id": 1881134233,
         "flight_id": 1881134233
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1702484052,
+    "wof:lastmodified": 1717047422,
     "wof:name": "UA731 (CHC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

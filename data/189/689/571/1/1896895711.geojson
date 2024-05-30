@@ -40,6 +40,7 @@
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
     "wof:hierarchy": [
       {
+        "custom_id": 1896895711,
         "flight_id": 1896895711
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1702830116,
+    "wof:lastmodified": 1717047431,
     "wof:name": "DL440 (SFO-RDM)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

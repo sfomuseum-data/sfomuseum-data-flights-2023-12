@@ -45,6 +45,7 @@
     "wof:geomhash": "ad7dd7ece479a882a3440fb19be6ff4c",
     "wof:hierarchy": [
       {
+        "custom_id": 1896934485,
         "flight_id": 1896934485
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284261
     ],
-    "wof:lastmodified": 1703261972,
+    "wof:lastmodified": 1717047431,
     "wof:name": "AF83 (SFO-CDG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

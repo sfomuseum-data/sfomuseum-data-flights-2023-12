@@ -40,6 +40,7 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
+        "custom_id": 1896903201,
         "flight_id": 1896903201
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1702916660,
+    "wof:lastmodified": 1717047429,
     "wof:name": "DL8920 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

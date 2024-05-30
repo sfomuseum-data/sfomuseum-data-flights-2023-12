@@ -40,6 +40,7 @@
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
     "wof:hierarchy": [
       {
+        "custom_id": 1896984749,
         "flight_id": 1896984749
       }
     ],
@@ -50,11 +51,13 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1703952793,
+    "wof:lastmodified": 1717047436,
     "wof:name": "WN8507 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

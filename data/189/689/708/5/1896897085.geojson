@@ -40,6 +40,7 @@
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
     "wof:hierarchy": [
       {
+        "custom_id": 1896897085,
         "flight_id": 1896897085
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1702830431,
+    "wof:lastmodified": 1717047432,
     "wof:name": "UA3905 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

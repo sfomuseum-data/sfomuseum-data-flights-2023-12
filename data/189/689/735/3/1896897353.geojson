@@ -40,6 +40,7 @@
     "wof:geomhash": "1b9d916c097bbded3c8620fa2d25ceca",
     "wof:hierarchy": [
       {
+        "custom_id": 1896897353,
         "flight_id": 1896897353
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1702830491,
+    "wof:lastmodified": 1717047432,
     "wof:name": "UA954 (SFO-TLV)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

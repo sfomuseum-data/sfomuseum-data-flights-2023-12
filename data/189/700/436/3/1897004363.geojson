@@ -40,6 +40,7 @@
     "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
     "wof:hierarchy": [
       {
+        "custom_id": 1897004363,
         "flight_id": 1897004363
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1704126354,
+    "wof:lastmodified": 1717047436,
     "wof:name": "UA2551 (SFO-BWI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

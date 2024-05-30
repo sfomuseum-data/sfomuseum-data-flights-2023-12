@@ -45,6 +45,7 @@
     "wof:geomhash": "e84c3ec216fbaf9440bbf99d412a1253",
     "wof:hierarchy": [
       {
+        "custom_id": 1896980527,
         "flight_id": 1896980527
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283849
     ],
-    "wof:lastmodified": 1703780719,
+    "wof:lastmodified": 1717047433,
     "wof:name": "QF3793 (SFO-PSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

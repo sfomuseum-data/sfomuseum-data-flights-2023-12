@@ -45,6 +45,7 @@
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
+        "custom_id": 1896980235,
         "flight_id": 1896980235
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284513
     ],
-    "wof:lastmodified": 1703780652,
+    "wof:lastmodified": 1717047433,
     "wof:name": "FI7834 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

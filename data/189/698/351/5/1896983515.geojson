@@ -40,6 +40,7 @@
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
     "wof:hierarchy": [
       {
+        "custom_id": 1896983515,
         "flight_id": 1896983515
       }
     ],
@@ -50,11 +51,13 @@
       1159284153,
       -1
     ],
-    "wof:lastmodified": 1703952487,
+    "wof:lastmodified": 1717047435,
     "wof:name": "CI5397 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

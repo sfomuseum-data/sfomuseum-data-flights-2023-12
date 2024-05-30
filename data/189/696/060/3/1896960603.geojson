@@ -40,6 +40,7 @@
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
+        "custom_id": 1896960603,
         "flight_id": 1896960603
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1703606894,
+    "wof:lastmodified": 1717047428,
     "wof:name": "DL8926 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

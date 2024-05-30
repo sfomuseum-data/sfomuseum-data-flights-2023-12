@@ -40,6 +40,7 @@
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
     "wof:hierarchy": [
       {
+        "custom_id": 1881074585,
         "flight_id": 1881074585
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1701792865,
+    "wof:lastmodified": 1717047423,
     "wof:name": "UA853 (ANC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

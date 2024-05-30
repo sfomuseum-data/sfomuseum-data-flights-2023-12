@@ -45,6 +45,7 @@
     "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
     "wof:hierarchy": [
       {
+        "custom_id": 1896983183,
         "flight_id": 1896983183
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286153
     ],
-    "wof:lastmodified": 1703952404,
+    "wof:lastmodified": 1717047435,
     "wof:name": "AS3337 (BOI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

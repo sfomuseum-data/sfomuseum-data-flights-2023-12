@@ -40,6 +40,7 @@
     "wof:geomhash": "d4a7e38ab5b38aac9300ec43a62729ca",
     "wof:hierarchy": [
       {
+        "custom_id": 1881078109,
         "flight_id": 1881078109
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1701793692,
+    "wof:lastmodified": 1717047426,
     "wof:name": "UA6969 (SFO-YEG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

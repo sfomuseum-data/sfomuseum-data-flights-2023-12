@@ -40,6 +40,7 @@
     "wof:geomhash": "edaaf2818a2a544efcecaa79ec77eac5",
     "wof:hierarchy": [
       {
+        "custom_id": 1881129161,
         "flight_id": 1881129161
       }
     ],
@@ -50,11 +51,13 @@
       1377649073,
       -1
     ],
-    "wof:lastmodified": 1702398318,
+    "wof:lastmodified": 1717047426,
     "wof:name": "BF75 (SFO-ORY)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "3dd9109e023b838addb2fc760e69bcf5",
     "wof:hierarchy": [
       {
+        "custom_id": 1896977791,
         "flight_id": 1896977791
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1703780091,
+    "wof:lastmodified": 1717047434,
     "wof:name": "UA6942 (BIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
     "wof:hierarchy": [
       {
+        "custom_id": 1896975617,
         "flight_id": 1896975617
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283849
     ],
-    "wof:lastmodified": 1703779586,
+    "wof:lastmodified": 1717047432,
     "wof:name": "AS3347 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-12",
     "wof:superseded_by": [],
     "wof:supersedes": []
